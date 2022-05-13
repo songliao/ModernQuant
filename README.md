@@ -24,4 +24,4 @@ CMake is tool to manage building of source code ..
 
 **CMake project example**: [CMake_example](CMake_example)
 
-该项目的主[CMakeLists.txt](CMakeLists.txt) 对几个常用常见的CMake命令给出了inline 解释
+更多关于CMake的内容，请跳转上述CMake项目文件夹
