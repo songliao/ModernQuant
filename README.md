@@ -16,8 +16,12 @@ tutorials and examples for the modern quant course
 ## CMake
 CMake is tool to manage building of source code ..
 
-在线文档: [CMake online Documentaion](https://cmake.org/cmake/help/latest/index.html)
+官方在线文档: [CMake online Documentaion](https://cmake.org/cmake/help/latest/index.html)
 
-常用的Cmake命令语法结合一个实际例子：
+官方在线文档是了解CMake的最权威的途径。但内容庞杂，不易上手。
 
-Cmake Example: [CMakeLists.txt](CMakeLists.txt)
+我们给出一个CMake project的最简单，同时又能应付绝大多数应用场景的实例
+
+**CMake project example**: [CMake_tutorial](CMake_tutorial)
+
+该项目的主[CMakeLists.txt](CMakeLists.txt) 对几个常用常见的CMake命令给出了inline 解释
