@@ -7,6 +7,7 @@ tutorials and examples for the modern quant course
     - Git
     - CMake
     - C++ 
+    - VCPKG
     - Python
 
 - 金融数学相关
