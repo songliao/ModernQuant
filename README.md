@@ -29,7 +29,7 @@ CMake is tool to manage building of source code ..
 
 我们给出一个CMake project的最简单，同时又能应付绝大多数应用场景的实例
 
-**CMake project example**: [OptLib](CMake_example)
+**CMake project example**: [OptLib](https://github.com/songliao/optlib)
 
 OptLib 是一个基于CMake的C++ 项目，仅作为教学之用。
-更多关于相关内容，请跳转上述项目github库地址
+更多关于相关内容，请跳转上述项目github库地址。
